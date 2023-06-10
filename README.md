@@ -4,9 +4,10 @@
 Hello there! I'm **Jean Larroza Arcenal**, I am originally from the Philippines and live here in Norway for *15 years*, a passionate front-end development student with a deep love for creating engaging and user-friendly websites.
 ## Hobbies
 
-1. hobby 1
-2. hobby 2
-3. hobby 3
+1. Photography
+2. Surfing
+3. Reading
+4. Cooking
 
 ## Project Accomplished
 
