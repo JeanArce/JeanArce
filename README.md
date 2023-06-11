@@ -47,8 +47,8 @@ Currently, I'm enrolled in a front-end development program, where I'm learning t
     
 ## Contact Links
 
-[IG](https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fjin_rcnal%3Figshid%3DMjEwN2IyYWYwYw%253D%253D%26fbclid%3DIwAR2HJDdoVPu3IH03ruHX6Q9Uj_wYhApVL43tLzmZMJjq9wKyZFc_qwFMyVA&h=AT09hNrxY0e-IVCngGdAhDDH5TTvgSyx235GdBKH8PdWtV1dQWdPogLw2-hM1R6OM4zJOSibUDm6rqhQ-WEfqtUeFwnyIwCboefSz2Q4UwBQHu1VtKcuqfzku8TkNmIr7zs)
-[Twitter]()
+[IG](https://www.instagram.com/jean.arcenal)
+[Twitter](https://twitter.com/jean.arcenal)
 
 
 
