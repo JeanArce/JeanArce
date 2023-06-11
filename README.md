@@ -48,6 +48,7 @@ Currently, I'm enrolled in a front-end development program, where I'm learning t
 ## Contact Links
 
 [IG](https://www.instagram.com/jean.arcenal)
+
 [Twitter](https://twitter.com/jean.arcenal)
 
 
