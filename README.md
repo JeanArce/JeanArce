@@ -13,11 +13,14 @@ Currently, I'm enrolled in a front-end development program, where I'm learning t
 
 ## Project Accomplished
 
-| Projects                |             GitHub URL                                            |       Website URL                               |
-| --------                | --------                                                          | --------                                        |
-| Cross-Course- Assignment|  https://github.com/JeanArce/cross-course-Rainydays-CA-DESIGN-1   | https://rainbow-donut-14a345.netlify.app        |
-| Semester Project 1      | https://github.com/JeanArce/COM-SCI-MUSEUM                        | https://incredible-griffin-d71f2e.netlify.app   |
-| Project Exam 1          | https://github.com/Noroff-FEU-Assignments/project-exam-1-JeanArce | https://chic-lolly-722a58.netlify.app           |
+| Projects                |             GitHub URL                                            |       Website URL                                          |
+| --------                | --------                                                          | --------                                                   |
+| Cross-Course- Assignment|  https://github.com/JeanArce/cross-course-Rainydays-CA-DESIGN-1   | https://rainbow-donut-14a345.netlify.app                   |
+| Semester Project 1      | https://github.com/JeanArce/COM-SCI-MUSEUM                        | https://incredible-griffin-d71f2e.netlify.app              |
+| Project Exam 1          | https://github.com/Noroff-FEU-Assignments/project-exam-1-JeanArce | https://chic-lolly-722a58.netlify.app                      |
+| Semester Project 2      | https://github.com/JeanArce/semester-project-two-auctions         | https://jeanarce.github.io/semester-project-two-auctions   |
+| Javascript Frameworks   | https://apparel-online.netlify.app                                | https://github.com/JeanArce/apparel-online                 |
+| Project Exam 2          | https://holidaze-booking101.netlify.app                           | https://github.com/JeanArce/holidaze                       |
 
 ## Built with 
 - HTML
