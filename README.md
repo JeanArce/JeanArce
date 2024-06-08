@@ -1,9 +1,9 @@
 # Jean's Personal Profile
 ![profilePic](https://drive.google.com/uc?export=view&id=18GQEgGi_OVqHcGtZucUvFR5z24e_w3M0)
 
-Hello there! I'm **Jean Larroza Arcenal**, I am originally from the Philippines and live here in Norway for *15 years*, a passionate front-end development student with a deep love for creating engaging and user-friendly websites.
+Hello there! I'm **Jean Larroza Arcenal**,a passionate front-end development student with a deep love for creating engaging and user-friendly websites.
 
-Currently, I'm enrolled in a front-end development program, where I'm learning the latest web technologies and honing my skills in HTML, CSS, and JavaScript. I'm constantly exploring new frameworks and tools to expand my knowledge and stay up-to-date with industry trends.
+Currently, I'm enrolled in a front-end development program at Noroff, where I'm learning the latest web technologies and honing my skills in HTML, CSS, JavaScript, Bootstrap and React. I'm constantly exploring new frameworks and tools to expand my knowledge and stay up-to-date with industry trends.
 ## Hobbies
 
 1. Photography
